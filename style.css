@@ -1,0 +1,11 @@
+body{
+    background: url("./img/pexels-christina99999-35217380.jpg") fixed no-repeat;
+    background-size: cover;
+}
+
+.card{
+
+    box-shadow: 2px 2px 10px #000;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: darkred;
+}
